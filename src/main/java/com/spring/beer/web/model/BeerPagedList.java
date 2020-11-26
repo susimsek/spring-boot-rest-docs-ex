@@ -1,5 +1,6 @@
 package com.spring.beer.web.model;
 
+import lombok.AllArgsConstructor;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
 
